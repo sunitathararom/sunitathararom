@@ -15,7 +15,7 @@ My interests include **Data Analytics, Business Intelligence, Business Analysis,
 ## 🎓 Education
 **Mahasarakham University** <br>
 *Bachelor of Business Administration in Digital Business and Information Systems* <br>
-📅 **2023 – Present** | 🎯 **GPA:** 3.61
+📅 **2023 – Present** | 🎯 **GPAX:** 3.61
 
 ---
 
