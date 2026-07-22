@@ -71,7 +71,7 @@ My interests include **Data Analytics, Business Intelligence, Business Analysis,
   <br><br>
 
   <!-- Generative AI and ChatGPT for Academic Research -->
-  <p><b>3. Generative AI and ChatGPT for Academic Research (2026)</b></p>
+  <p><b>3. Generative AI and ChatGPT for Academic Research (2025)</b></p>
   <img src="https://github.com/sunitathararom/sunitathararom/blob/main/AI&GPT.jpg?raw=true" alt="Generative AI and ChatGPT for Academic Research" width="400">
   <br><br>
 
