@@ -52,7 +52,7 @@ My interests include **Data Analytics, Business Intelligence, Business Analysis,
 ### 📜 Certifications
 *   **Microsoft Power BI Training** (2025)
 *   **Basic Survey Data Analysis with Generative AI** (2026)
-*   **Generative AI and ChatGPT for Academic Research** (2026)
+*   **Generative AI and ChatGPT for Academic Research** (2025)
 *   **English Proficiency Assessment | CEFR B1** (2026)
 *   **IC3 Digital Literacy Certification (GS6 Level 1)** | Score: 912 (2025)
 
