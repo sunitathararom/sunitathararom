@@ -32,16 +32,16 @@ My interests include **Data Analytics, Business Intelligence, Business Analysis,
 ## 🛠 Technical Skills
 
 ### 💻 Programming & Database
-`SQL` `PL/SQL` `PHP` `MySQL` `Oracle Database` `Python` `phpMyAdmin`
+`Python` `SQL` `MySQL` `Oracle Database` `PL/SQL` `PHP` `phpMyAdmin`
 
 ### 📊 Data Analytics & Business Intelligence
-`Microsoft Excel` `Power Query` `Power BI` `DAX` `Looker Studio` `R Programming`
+`Power BI` `DAX` `R Programming` `Looker Studio` `Power Query` `Microsoft Excel`
 
 ### 🤖 Automation & AI
-`n8n` `OpenAI API` `AI Studio` `Docker` `Odoo`
+`n8n` `OpenAI API` `Docker` `Odoo` `AI Studio`
 
 ### ⚙️ Development & Collaboration
-`Visual Studio Code` `GitHub` `Figma` `Draw.io` `Google Sites` `Oracle APEX` `WinSCP` `Canva` `Microsoft Word` `EndNote`
+`GitHub` `Figma` `Draw.io` `Oracle APEX` `Visual Studio Code` `Google Sites` `Canva` `WinSCP` `Microsoft Word` `EndNote`
 
 ---
 
