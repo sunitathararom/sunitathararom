@@ -47,12 +47,14 @@ My interests include **Data Analytics, Business Intelligence, Business Analysis,
 
 ## 🏆 Certificates & Training
 
+## 🏆 Certificates & Training
+
 ### 📜 Certifications
-*   **English Proficiency Assessment | CEFR B1** (2026)
-*   **Gemini Certified Educator** – Google for Education (2026)
 *   **Microsoft Power BI Training** (2025)
+*   **Basic Survey Data Analysis with Generative AI** (2026)
+*   **Generative AI and ChatGPT for Academic Research** (2026)
+*   **English Proficiency Assessment | CEFR B1** (2026)
 *   **IC3 Digital Literacy Certification (GS6 Level 1)** | Score: 912 (2025)
-*   **Generative AI and ChatGPT** – Kasetsart University (2025)
 
 <details>
   <summary><b>🖼️ Click to view my certificates (Images)</b></summary>
@@ -63,24 +65,28 @@ My interests include **Data Analytics, Business Intelligence, Business Analysis,
   <img src="https://via.placeholder.com/400x250?text=Upload+Power+BI+Cert" alt="Microsoft Power BI Training" width="400">
   <br><br>
 
-  <!-- IC3 Digital Literacy -->
-  <p><b>2. IC3 Digital Literacy Certification (GS6 Level 1)</b></p>
-  <img src="https://via.placeholder.com/400x250?text=Upload+IC3+Cert" alt="IC3 Digital Literacy Certification" width="400">
+  <!-- Basic Survey Data Analysis -->
+  <p><b>2. Basic Survey Data Analysis with Generative AI (2026)</b></p>
+  <img src="https://via.placeholder.com/400x250?text=Upload+Basic+Survey+AI+Cert" alt="Basic Survey Data Analysis with Generative AI" width="400">
+  <br><br>
+
+  <!-- Generative AI and ChatGPT for Academic Research -->
+  <p><b>3. Generative AI and ChatGPT for Academic Research (2026)</b></p>
+  <img src="https://via.placeholder.com/400x250?text=Upload+Gen+AI+Research+Cert" alt="Generative AI and ChatGPT for Academic Research" width="400">
   <br><br>
 
   <!-- English Proficiency -->
-  <p><b>3. English Proficiency Assessment | CEFR B1 (2026)</b></p>
+  <p><b>4. English Proficiency Assessment | CEFR B1 (2026)</b></p>
   <img src="https://via.placeholder.com/400x250?text=Upload+CEFR+Cert" alt="English Proficiency Assessment" width="400">
   <br><br>
 
-  <!-- Gemini Certified Educator -->
-  <p><b>4. Gemini Certified Educator – Google for Education (2026)</b></p>
-  <img src="https://via.placeholder.com/400x250?text=Upload+Gemini+Cert" alt="Gemini Certified Educator" width="400">
+  <!-- IC3 Digital Literacy (2 รูป) -->
+  <p><b>5. IC3 Digital Literacy Certification (GS6 Level 1) | Score: 912 (2025)</b></p>
+  <i>Certificate:</i><br>
+  <img src="https://via.placeholder.com/400x250?text=Upload+IC3+Certificate" alt="IC3 Digital Literacy Certificate" width="400">
   <br><br>
-
-  <!-- Generative AI and ChatGPT -->
-  <p><b>5. Generative AI and ChatGPT – Kasetsart University (2025)</b></p>
-  <img src="https://via.placeholder.com/400x250?text=Upload+Gen+AI+Cert" alt="Generative AI and ChatGPT" width="400">
+  <i>Score Report:</i><br>
+  <img src="https://via.placeholder.com/400x250?text=Upload+IC3+Score+Report" alt="IC3 Digital Literacy Score Report" width="400">
   <br><br>
 
 </details>
