@@ -62,7 +62,8 @@ My interests include **Data Analytics, Business Intelligence, Business Analysis,
   
   <!-- Microsoft Power BI -->
   <p><b>1. Microsoft Power BI Training (2025)</b></p>
-  <img src="https://via.placeholder.com/400x250?text=Upload+Power+BI+Cert" alt="Microsoft Power BI Training" width="400">
+  <img src=["https://via.placeholder.com/400x250?text=Upload+Power+BI+Cert"](https://github.com/sunitathararom/sunitathararom/blob/main/BI.jpg?raw=true
+) alt="Microsoft Power BI Training" width="400">
   <br><br>
 
   <!-- Basic Survey Data Analysis -->
@@ -72,21 +73,25 @@ My interests include **Data Analytics, Business Intelligence, Business Analysis,
 
   <!-- Generative AI and ChatGPT for Academic Research -->
   <p><b>3. Generative AI and ChatGPT for Academic Research (2026)</b></p>
-  <img src="https://via.placeholder.com/400x250?text=Upload+Basic+Survey+AI+Cert" alt="Generative AI and ChatGPT for Academic Research" width="400">
+  <img src=["https://via.placeholder.com/400x250?text=Upload+Basic+Survey+AI+Cert"](https://github.com/sunitathararom/sunitathararom/blob/main/AI&GPT.jpg?raw=true
+) alt="Generative AI and ChatGPT for Academic Research" width="400">
   <br><br>
 
   <!-- English Proficiency -->
   <p><b>4. English Proficiency Assessment | CEFR B1 (2026)</b></p>
-  <img src="https://via.placeholder.com/400x250?text=Upload+CEFR+Cert" alt="English Proficiency Assessment" width="400">
+  <img src=["https://via.placeholder.com/400x250?text=Upload+CEFR+Cert"](https://github.com/sunitathararom/sunitathararom/blob/main/certificate.png?raw=true
+
+) alt="English Proficiency Assessment" width="400">
   <br><br>
 
   <!-- IC3 Digital Literacy (2 รูป) -->
   <p><b>5. IC3 Digital Literacy Certification (GS6 Level 1) | Score: 912 (2025)</b></p>
   <i>Certificate:</i><br>
-  <img src="https://via.placeholder.com/400x250?text=Upload+IC3+Certificate" alt="IC3 Digital Literacy Certificate" width="400">
+  <img src=["https://via.placeholder.com/400x250?text=Upload+IC3+Certificate"](https://github.com/sunitathararom/sunitathararom/blob/main/IC3%20GS6%20Level%201%20.jpg?raw=true
+) alt="IC3 Digital Literacy Certificate" width="400">
   <br><br>
   <i>Score Report:</i><br>
-  <img src="https://via.placeholder.com/400x250?text=Upload+IC3+Score+Report" alt="IC3 Digital Literacy Score Report" width="400">
+  <img src=["https://via.placeholder.com/400x250?text=Upload+IC3+Score+Report"](https://github.com/sunitathararom/sunitathararom/blob/main/IC3%20GS6%20Level%201_page-0001.jpg?raw=true) alt="IC3 Digital Literacy Score Report" width="400">
   <br><br>
 
 </details>
