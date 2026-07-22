@@ -67,8 +67,7 @@ My interests include **Data Analytics, Business Intelligence, Business Analysis,
 
   <!-- Basic Survey Data Analysis -->
   <p><b>2. Basic Survey Data Analysis with Generative AI (2026)</b></p>
-  <!-- หมายเหตุ: อันนี้คุณยังไม่ได้ใส่รูปลิงก์จริง ผมเลยคง Placeholder เดิมไว้นะครับ -->
-  <img src="https://via.placeholder.com/400x250?text=Upload+Basic+Survey+AI+Cert" alt="Basic Survey Data Analysis with Generative AI" width="400">
+  <img src="https://github.com/sunitathararom/sunitathararom/blob/main/AI.png?raw=true" alt="Basic Survey Data Analysis with Generative AI" width="400">
   <br><br>
 
   <!-- Generative AI and ChatGPT for Academic Research -->
