@@ -47,17 +47,55 @@ My interests include **Data Analytics, Business Intelligence, Business Analysis,
 
 ## 🏆 Certificates & Training
 
+### 📜 Certifications
+*   **English Proficiency Assessment | CEFR B1** (2026)
+*   **Gemini Certified Educator** – Google for Education (2026)
+*   **Microsoft Power BI Training** (2025)
+*   **IC3 Digital Literacy Certification (GS6 Level 1)** | Score: 912 (2025)
+*   **Generative AI and ChatGPT** – Kasetsart University (2025)
+
 <details>
-  <summary><b>Click to view my certificates</b></summary>
+  <summary><b>🖼️ Click to view my certificates (Images)</b></summary>
   <br>
   
-  <!-- เปลี่ยน URL ใน src="..." เป็นลิงก์รูปภาพ Certificate ของคุณ -->
-  <img src="https://via.placeholder.com/400x250?text=Upload+Your+Image+To+GitHub" alt="Certificate Name" width="400">
-  
-  <p><b>Certificate of Completion - [ชื่อคอร์สเรียน/ใบเซอร์]:</b> <br> 
-  [ใส่คำอธิบายสั้นๆ เกี่ยวกับสิ่งที่คุณได้เรียนรู้ เช่น Learned about building interactive dashboards using Power BI and DAX.]</p>
-  
+  <!-- Microsoft Power BI -->
+  <p><b>1. Microsoft Power BI Training (2025)</b></p>
+  <img src="https://via.placeholder.com/400x250?text=Upload+Power+BI+Cert" alt="Microsoft Power BI Training" width="400">
+  <br><br>
+
+  <!-- IC3 Digital Literacy -->
+  <p><b>2. IC3 Digital Literacy Certification (GS6 Level 1)</b></p>
+  <img src="https://via.placeholder.com/400x250?text=Upload+IC3+Cert" alt="IC3 Digital Literacy Certification" width="400">
+  <br><br>
+
+  <!-- English Proficiency -->
+  <p><b>3. English Proficiency Assessment | CEFR B1 (2026)</b></p>
+  <img src="https://via.placeholder.com/400x250?text=Upload+CEFR+Cert" alt="English Proficiency Assessment" width="400">
+  <br><br>
+
+  <!-- Gemini Certified Educator -->
+  <p><b>4. Gemini Certified Educator – Google for Education (2026)</b></p>
+  <img src="https://via.placeholder.com/400x250?text=Upload+Gemini+Cert" alt="Gemini Certified Educator" width="400">
+  <br><br>
+
+  <!-- Generative AI and ChatGPT -->
+  <p><b>5. Generative AI and ChatGPT – Kasetsart University (2025)</b></p>
+  <img src="https://via.placeholder.com/400x250?text=Upload+Gen+AI+Cert" alt="Generative AI and ChatGPT" width="400">
+  <br><br>
+
 </details>
+
+---
+
+### 🎤 Training & Seminars
+
+**Thailand Digital 2025 Seminar** | *Mahasarakham University (August 2025)*
+*   Participated in a seminar on digital transformation, AI, cybersecurity, and emerging technologies in Thailand.
+*   Learned about future digital trends and technology applications in business.
+
+**Edutech for Thailand's Future: Empowering Smart Learning with Cybersecurity & AI** | *Mahasarakham University (2025)*
+*   Participated in a training program on Artificial Intelligence (AI), cybersecurity awareness, and smart learning technologies.
+*   Gained knowledge of AI applications and cybersecurity concepts in education and business.
 
 ---
 
