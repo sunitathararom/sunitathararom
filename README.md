@@ -45,7 +45,6 @@ My interests include **Data Analytics, Business Intelligence, Business Analysis,
 
 ---
 
-## 🏆 Certificates & Training
 
 ## 🏆 Certificates & Training
 
