@@ -72,7 +72,7 @@ My interests include **Data Analytics, Business Intelligence, Business Analysis,
 
   <!-- Generative AI and ChatGPT for Academic Research -->
   <p><b>3. Generative AI and ChatGPT for Academic Research (2026)</b></p>
-  <img src="https://via.placeholder.com/400x250?text=Upload+Gen+AI+Research+Cert" alt="Generative AI and ChatGPT for Academic Research" width="400">
+  <img [Uploading Certificate-MS02-TH (1).pdf…]() alt="Generative AI and ChatGPT for Academic Research" width="400">
   <br><br>
 
   <!-- English Proficiency -->
