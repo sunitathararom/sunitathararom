@@ -2,15 +2,16 @@
 <h3 align="center">Digital Business and Information Systems Student</h3>
 
 <p align="center">
-  <em>Turning data and business requirements into meaningful insights, efficient systems, and practical solutions.</em>
+  <em>Making data make sense and workflows work better.</em>
 </p>
-
 ---
 
 ## 👤 About Me
-I am a fourth-year **Digital Business and Information Systems** student at Mahasarakham University with a passion for leveraging technology to improve business performance. 
+I am a fourth-year Digital Business and Information Systems student at Mahasarakham University, focusing on how to bridge the gap between data and everyday business decisions.
 
-My interests include **Data Analytics, Business Intelligence, Business Analysis, System Analysis,** and **Business Process Automation**. I enjoy turning data and business requirements into meaningful insights, efficient systems, and practical solutions through modern digital technologies.
+My main interests are Data Analytics, Business Intelligence, and AI-driven Automation. I enjoy working with data, understanding business requirements, and building practical systems that help workflows run more smoothly.
+
+I am a continuous learner who is always curious about new technologies. I am currently looking for opportunities to apply what I've learned to real-world challenges and grow alongside a dynamic team.
 
 ## 🎓 Education
 **Mahasarakham University** <br>
