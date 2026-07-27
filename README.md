@@ -32,17 +32,17 @@ I am a continuous learner who is always curious about new technologies. I am cur
 
 ## 🛠 Technical Skills
 
-**💻 Programming & Database**
-`Python` `R Programming` `SQL` `PL/SQL` `MySQL` `Oracle Database` `PHP` `HTML` `CSS` `Bootstrap` `phpMyAdmin`
+### 💻 Programming & Database
+`HTML` `CSS` `Bootstrap` `PHP` `Python (Streamlit)` `R Programming` `SQL` `MySQL` `Oracle Database` `PL/SQL` `phpMyAdmin`
 
-**📊 Data Analytics & Business Intelligence**
-`Power BI` `DAX` `Looker Studio` `Power Query` `Microsoft Excel` `Data Mining` `ETL/ELT` `CRISP-DM` `Big Data`
+### 📊 Data Analytics & Business Intelligence
+`Power Query` `Plotly` `Power BI` `DAX` `Looker Studio` `Microsoft Excel` `Data Mining` `ETL/ELT` `CRISP-DM` `Big Data`
 
-**🤖 Automation & AI**
-`n8n` `OpenAI API` `Generative AI` `AI Studio` `Docker` `Odoo`
+### 🤖 Automation & AI
+`n8n` `Google Gemini AI` `Generative AI` `AI Studio` `Docker` `Odoo`
 
-**⚙️ System Analysis, Design & Tools**
-`Requirement Gathering` `Business Logic` `Flowcharts` `DFD` `Figma` `Draw.io` `GitHub` `Oracle APEX` `Visual Studio Code` `Canva` `WinSCP` `Google Sites` 
+### ⚙️ System Analysis, Design & Collaboration
+`Requirement Gathering` `Business Logic` `Flowcharts` `DFD` `Figma` `Draw.io` `GitHub` `Oracle APEX` `Visual Studio Code` `Canva` `WinSCP` `Microsoft Word` `EndNote`
 
 ---
 
