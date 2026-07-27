@@ -31,20 +31,19 @@ My interests include **Data Analytics, Business Intelligence, Business Analysis,
 
 ## 🛠 Technical Skills
 
-### 💻 Programming & Database
-`HTML` `CSS` `Bootstrap` `PHP` `Python` `R Programming` `SQL` `MySQL` `Oracle Database` `PL/SQL` `phpMyAdmin`
+**💻 Programming & Database**
+`Python` `R Programming` `SQL` `PL/SQL` `MySQL` `Oracle Database` `PHP` `HTML` `CSS` `Bootstrap` `phpMyAdmin`
 
-### 📊 Data Analytics & Business Intelligence
+**📊 Data Analytics & Business Intelligence**
 `Power BI` `DAX` `Looker Studio` `Power Query` `Microsoft Excel` `Data Mining` `ETL/ELT` `CRISP-DM` `Big Data`
 
-### 🤖 Automation & AI
+**🤖 Automation & AI**
 `n8n` `OpenAI API` `Generative AI` `AI Studio` `Docker` `Odoo`
 
-### ⚙️ System Analysis, Design & Collaboration
-`Requirement Gathering` `Business Logic` `Flowcharts` `DFD` `Figma` `Draw.io` `GitHub` `Oracle APEX` `Visual Studio Code` `Google Sites` `Canva` `WinSCP` `Microsoft Word` `EndNote`
+**⚙️ System Analysis, Design & Tools**
+`Requirement Gathering` `Business Logic` `Flowcharts` `DFD` `Figma` `Draw.io` `GitHub` `Oracle APEX` `Visual Studio Code` `Canva` `WinSCP` `Google Sites` 
 
 ---
-
 
 ## 🏆 Certificates & Training
 
@@ -106,11 +105,7 @@ My interests include **Data Analytics, Business Intelligence, Business Analysis,
 
 ## 📫 Contact & Connect
 
-<div align="left">
-  <a href="mailto:sunita.trm246@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunita.trm246@gmail.com)
 <br>
 
 **📍 Location:** Ubon Ratchathani, Thailand <br>
