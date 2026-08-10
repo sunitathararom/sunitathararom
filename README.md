@@ -87,6 +87,15 @@ I am a continuous learner who is always curious about new technologies. I am cur
   <i>Score Report:</i><br>
   <img src="https://github.com/sunitathararom/sunitathararom/blob/main/IC3%20GS6%20Level%201_page-0001.jpg?raw=true" alt="IC3 Digital Literacy Score Report" width="400">
   <br><br>
+  
+<!-- Data Analytics Certification -->
+  <p><b>5. Data Analytics Certification</b></p>
+  <i>Certificate:</i><br>
+  <a href="https://github.com/sunitathararom/sunitathararom/raw/d2d62aa3e05dbb114d071cb513ac75f617ce5787/Cert_DA.pdf" target="_blank">📄 View Certificate (PDF)</a>
+  <br><br>
+  <i>Score Report:</i><br>
+  <a href="https://github.com/sunitathararom/sunitathararom/raw/d2d62aa3e05dbb114d071cb513ac75f617ce5787/Result_DA.pdf" target="_blank">📊 View Score Report (PDF)</a>
+  <br><br>
 
 </details>
 
