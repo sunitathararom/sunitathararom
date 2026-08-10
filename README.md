@@ -62,7 +62,7 @@ I am a continuous learner who is always curious about new technologies. I am cur
   <br>
 
   <!-- Data Analytics Certification -->
-<p><b>6. Data Analytics Certification</b></p>
+<p><b>1. Data Analytics Certification</b></p>
 <i>Certificate:</i><br>
 <img src="https://github.com/sunitathararom/sunitathararom/blob/main/Cert_DA_page-0001.jpg?raw=true" alt="Data Analytics Certificate" width="400">
 <br><br>
@@ -71,27 +71,27 @@ I am a continuous learner who is always curious about new technologies. I am cur
 <br><br>
 
   <!-- Microsoft Power BI -->
-  <p><b>1. Microsoft Power BI Training (2025)</b></p>
+  <p><b>2. Microsoft Power BI Training (2025)</b></p>
   <img src="https://github.com/sunitathararom/sunitathararom/blob/main/BI.jpg?raw=true" alt="Microsoft Power BI Training" width="400">
   <br><br>
 
   <!-- Basic Survey Data Analysis -->
-  <p><b>2. Basic Survey Data Analysis with Generative AI (2026)</b></p>
+  <p><b>3. Basic Survey Data Analysis with Generative AI (2026)</b></p>
   <img src="https://github.com/sunitathararom/sunitathararom/blob/main/AI.png?raw=true" alt="Basic Survey Data Analysis with Generative AI" width="400">
   <br><br>
 
   <!-- Generative AI and ChatGPT for Academic Research -->
-  <p><b>3. Generative AI and ChatGPT for Academic Research (2025)</b></p>
+  <p><b>4. Generative AI and ChatGPT for Academic Research (2025)</b></p>
   <img src="https://github.com/sunitathararom/sunitathararom/blob/main/AI&GPT.jpg?raw=true" alt="Generative AI and ChatGPT for Academic Research" width="400">
   <br><br>
 
   <!-- English Proficiency -->
-  <p><b>4. English Proficiency Assessment | CEFR B1 (2026)</b></p>
+  <p><b>5. English Proficiency Assessment | CEFR B1 (2026)</b></p>
   <img src="https://github.com/sunitathararom/sunitathararom/blob/main/certificate.png?raw=true" alt="English Proficiency Assessment" width="400">
   <br><br>
 
   <!-- IC3 Digital Literacy (2 รูป) -->
-  <p><b>5. IC3 Digital Literacy Certification (GS6 Level 1) | Score: 912 (2025)</b></p>
+  <p><b>6. IC3 Digital Literacy Certification (GS6 Level 1) | Score: 912 (2025)</b></p>
   <i>Certificate:</i><br>
   <img src="https://github.com/sunitathararom/sunitathararom/blob/main/IC3%20GS6%20Level%201%20.jpg?raw=true" alt="IC3 Digital Literacy Certificate" width="400">
   <br><br>
