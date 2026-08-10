@@ -26,7 +26,7 @@ I am a continuous learner who is always curious about new technologies. I am cur
 - 📈 **Business Intelligence:** Building interactive dashboards and KPI reports.
 - 📑 **Business Analysis:** Analyzing business requirements and processes.
 - 🖥️ **System Analysis:** Designing efficient system workflows and databases.
-- 🤖 **Business Process Automation & Web Development:** Automating workflows with n8n and AI integration.
+- 🤖 **AI Automation & Web Development:** Automating workflows with n8n and AI integration.
 
 ---
 
