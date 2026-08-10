@@ -54,6 +54,7 @@ I am a continuous learner who is always curious about new technologies. I am cur
 *   **Generative AI and ChatGPT for Academic Research** (2025)
 *   **English Proficiency Assessment | CEFR B1** (2026)
 *   **IC3 Digital Literacy Certification (GS6 Level 1)** | Score: 912 (2025)
+*   **Data Analytics Certification** | Score: 929 (2026)
 
 <details>
   <summary><b>🖼️ Click to view my certificates (Images)</b></summary>
