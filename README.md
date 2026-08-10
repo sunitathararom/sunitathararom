@@ -49,17 +49,27 @@ I am a continuous learner who is always curious about new technologies. I am cur
 ## 🏆 Certificates & Training
 
 ### 📜 Certifications
+*   **Data Analytics Certification** | Score: 929 (2026)
 *   **Microsoft Power BI Training** (2025)
 *   **Basic Survey Data Analysis with Generative AI** (2026)
 *   **Generative AI and ChatGPT for Academic Research** (2025)
 *   **English Proficiency Assessment | CEFR B1** (2026)
 *   **IC3 Digital Literacy Certification (GS6 Level 1)** | Score: 912 (2025)
-*   **Data Analytics Certification** | Score: 929 (2026)
+
 
 <details>
   <summary><b>🖼️ Click to view my certificates (Images)</b></summary>
   <br>
-  
+
+  <!-- Data Analytics Certification -->
+<p><b>6. Data Analytics Certification</b></p>
+<i>Certificate:</i><br>
+<img src="https://github.com/sunitathararom/sunitathararom/blob/main/Cert_DA_page-0001.jpg?raw=true" alt="Data Analytics Certificate" width="400">
+<br><br>
+<i>Score Report:</i><br>
+<img src="https://github.com/sunitathararom/sunitathararom/blob/main/Result_DA_page-0001.jpg?raw=true" alt="Data Analytics Score Report" width="400">
+<br><br>
+
   <!-- Microsoft Power BI -->
   <p><b>1. Microsoft Power BI Training (2025)</b></p>
   <img src="https://github.com/sunitathararom/sunitathararom/blob/main/BI.jpg?raw=true" alt="Microsoft Power BI Training" width="400">
@@ -89,15 +99,6 @@ I am a continuous learner who is always curious about new technologies. I am cur
   <img src="https://github.com/sunitathararom/sunitathararom/blob/main/IC3%20GS6%20Level%201_page-0001.jpg?raw=true" alt="IC3 Digital Literacy Score Report" width="400">
   <br><br>
   
-<!-- Data Analytics Certification -->
-<p><b>6. Data Analytics Certification</b></p>
-<i>Certificate:</i><br>
-<img src="https://github.com/sunitathararom/sunitathararom/blob/main/Cert_DA_page-0001.jpg?raw=true" alt="Data Analytics Certificate" width="400">
-<br><br>
-<i>Score Report:</i><br>
-<img src="https://github.com/sunitathararom/sunitathararom/blob/main/Result_DA_page-0001.jpg?raw=true" alt="Data Analytics Score Report" width="400">
-<br><br>
-
 </details>
 
 ---
