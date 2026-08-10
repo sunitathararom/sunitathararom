@@ -89,12 +89,12 @@ I am a continuous learner who is always curious about new technologies. I am cur
   <br><br>
   
 <!-- Data Analytics Certification -->
-  <p><b>5. Data Analytics Certification</b></p>
+  <p><b>6. Data Analytics Certification</b></p>
   <i>Certificate:</i><br>
-  <a href="https://github.com/sunitathararom/sunitathararom/raw/d2d62aa3e05dbb114d071cb513ac75f617ce5787/Cert_DA.pdf" target="_blank">📄 View Certificate (PDF)</a>
+  <iframe src="https://github.com/sunitathararom/sunitathararom/raw/d2d62aa3e05dbb114d071cb513ac75f617ce5787/Cert_DA.pdf" width="400" height="500"></iframe>
   <br><br>
   <i>Score Report:</i><br>
-  <a href="https://github.com/sunitathararom/sunitathararom/raw/d2d62aa3e05dbb114d071cb513ac75f617ce5787/Result_DA.pdf" target="_blank">📊 View Score Report (PDF)</a>
+  <iframe src="https://github.com/sunitathararom/sunitathararom/raw/d2d62aa3e05dbb114d071cb513ac75f617ce5787/Result_DA.pdf" width="400" height="500"></iframe>
   <br><br>
 
 </details>
