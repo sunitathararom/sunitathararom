@@ -1,15 +1,16 @@
 <h1 align="center">Hi there, I'm Sunita Thararom 👋</h1>
-<h3 align="center">Digital Business and Information Systems Student</h3>
+<h3 align="center">Digital Business and Information Systems Student | Passionate about Business Development</h3>
 
 <p align="center">
-  <em>Making data make sense and workflows work better.</em>
+  <em>Making data make sense, optimizing workflows, and driving strategic business growth.</em>
 </p>
-
 
 ## 👤 About Me
 I am a fourth-year Digital Business and Information Systems student at Mahasarakham University, focusing on how to bridge the gap between data and everyday business decisions.
 
 My main interests are Data Analytics, Business Intelligence, and AI-driven Automation. I enjoy working with data, understanding business requirements, and building practical systems that help workflows run more smoothly.
+
+Additionally, I have a strong passion for **Business Development, Market Research, and Strategic Planning**, particularly within the health, wellness, and skincare innovation sectors. I love uncovering market opportunities and using frameworks like Lean Canvas and Business Model Canvas to create value-driven business strategies.
 
 I am a continuous learner who is always curious about new technologies. I am currently looking for opportunities to apply what I've learned to real-world challenges and grow alongside a dynamic team.
 
@@ -22,6 +23,7 @@ I am a continuous learner who is always curious about new technologies. I am cur
 
 ## ⭐ Featured Skills & Career Interests
 
+- 💡 **Business Development & Strategy:** Market Research, Competitor Analysis, Business Model Canvas (BMC), and Lean Canvas.
 - 📊 **Data Analytics:** Transforming raw data into actionable insights.
 - 📈 **Business Intelligence:** Building interactive dashboards and KPI reports.
 - 📑 **Business Analysis:** Analyzing business requirements and processes.
@@ -30,7 +32,10 @@ I am a continuous learner who is always curious about new technologies. I am cur
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Technical & Business Skills
+
+### 💼 Business Strategy & Management
+`Market Research` `Business Model Canvas (BMC)` `Lean Canvas` `SWOT Analysis` `Value Proposition Design` `Competitive Analysis`
 
 ### 💻 Programming & Database
 `HTML` `CSS` `Bootstrap` `PHP` `Python (Streamlit)` `R Programming` `SQL` `MySQL` `Oracle Database` `PL/SQL` `phpMyAdmin`
